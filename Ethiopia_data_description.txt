@@ -1,0 +1,17 @@
+1. aglandyn
+https://www.idhsdata.org/idhs-action/variables/AGLANDYN
+AGLANDYN (HV244) indicates whether any member of the household owned (or had use of) agricultural land. Question wording varies across samples; see Comparability.
+
+The information in AGLANDYN is taken from the household record and applies to regular household residents, not temporary visitors. Researchers may wish to exclude visitors using the RESIDENT variable (with visitors coded "2") when women, children, or births are the unit of analysis, and using the HHRESIDENT variable when household members are the unit of analysis.
+
+2. chldomestic
+https://www.idhsdata.org/idhs-action/variables/CHLDOMESTIC
+CHLDOMESTIC (CHL7) indicates whether the child household member did domestic household work in the past week.
+
+3. hours
+https://www.idhsdata.org/idhs-action/variables/CHLHHWORKHRS
+CHLHHWORKHRS reports the number of hours the child household member selected for the child labor module (CHLHHINDEX) worked in paid employment or non-paid work in a family business (but not domestic tasks) in the past week.
+
+4. p_crop
+https://www.idhsdata.org/idhs-action/variables/CROPLAND
+CROPLAND reports the proportion of land that is planted in crops, for a 10-kilometer circular buffer around each cluster location. The statistics reported in CROPLAND are based on agricultural censuses and remotely sensed imagery circa 2000.
